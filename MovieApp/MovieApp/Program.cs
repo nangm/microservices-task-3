@@ -63,10 +63,10 @@ namespace MovieApp
         //Also make it asynchronous meaning it is retrieving data from a api.
         //Have it void since your are logging the result into the console.
         //Which would take a integar as a argument.
-        public static async void GetOneBooking(int pokeId)
+        public static async void GetOneBooking(int Id)
         {
             //Define your base url
-            string baseURL = $"http://localhost:5000/api/booking/{Id}/";
+            string baseURL = $"http://localhost:5000/api/booking/{Id}";
             //Have your api call in try/catch block.
             try
             {
