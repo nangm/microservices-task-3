@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\MovieApp\\MovieApp\\MovieApp\\MovieApp\\MovieApp.csproj": {}
+    "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\microservices-task-3\\microservices-task-3\\MovieApp\\MovieApp\\MovieApp.csproj": {}
   },
   "projects": {
-    "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\MovieApp\\MovieApp\\MovieApp\\MovieApp\\MovieApp.csproj": {
+    "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\microservices-task-3\\microservices-task-3\\MovieApp\\MovieApp\\MovieApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\MovieApp\\MovieApp\\MovieApp\\MovieApp\\MovieApp.csproj",
+        "projectUniqueName": "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\microservices-task-3\\microservices-task-3\\MovieApp\\MovieApp\\MovieApp.csproj",
         "projectName": "MovieApp",
-        "projectPath": "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\MovieApp\\MovieApp\\MovieApp\\MovieApp\\MovieApp.csproj",
+        "projectPath": "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\microservices-task-3\\microservices-task-3\\MovieApp\\MovieApp\\MovieApp.csproj",
         "packagesPath": "C:\\Users\\Nang\\.nuget\\packages\\",
-        "outputPath": "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\MovieApp\\MovieApp\\MovieApp\\MovieApp\\obj\\",
+        "outputPath": "D:\\7.LearnAndTest\\MicroserviceAssessment\\Assessment1\\microservices-task-3\\microservices-task-3\\MovieApp\\MovieApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nang\\AppData\\Roaming\\NuGet\\NuGet.Config",
